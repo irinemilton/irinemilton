@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github banner.png" width="100%"/>
+<img src="./assets/banner.png" width="100%"/>
 
 # Hi 👋, I'm **Irine Milton**
 
@@ -96,19 +96,25 @@
 
 # 🐍 Contribution Snake
 
+```text
+Requires GitHub Action (Platane/snk)
+```
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+```html
+<img src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg"/>
+```
 
 ---
 
-## 📊 GitHub Metrics
+# 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
+```text
+Requires lowlighter/metrics GitHub Action
+```
+
+```html
+<img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg"/>
+```
 
 ---
 
@@ -120,6 +126,11 @@
 
 ---
 
+# ⌨️ WakaTime
+
+> Add your WakaTime username after creating an account.
+
+---
 
 # 🌱 Currently Learning
 
@@ -145,8 +156,3 @@
 If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
-
-
-
-
-
