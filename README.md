@@ -268,43 +268,36 @@ Achievement:
 
 ---
 <!-- =============================================== -->
-<!--             GITHUB ANALYTICS                    -->
+<!--              GITHUB ANALYTICS                   -->
 <!-- =============================================== -->
 
 # 📈 GitHub Analytics
 
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
 ## 🐍 Contribution Snake
 
-<img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg"/>
-
-</td>
-
-<td width="50%" align="center">
-
-## 📊 GitHub Metrics
-
-<img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg"/>
-
-</td>
-
-</tr>
-
-</table>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
 
 <br>
 
+## 📊 GitHub Metrics
+
 <p align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=irinemilton&theme=dracula&row=1&column=7&no-bg=true&no-frame=true"/>
-
+  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=irinemilton&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
