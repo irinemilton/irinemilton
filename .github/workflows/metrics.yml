@@ -6,35 +6,32 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
+permissions:
+  contents: write
 
-    permissions:
-      contents: write
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
 
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: irinemilton
+
           template: classic
           base: header, activity, community, repositories, metadata
+
           config_timezone: Asia/Kolkata
 
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
 
           plugin_isocalendar: yes
-
-          plugin_stars: yes
-
           plugin_achievements: yes
-
           plugin_followup: yes
-
           plugin_lines: yes
-
-          filename: github-metrics.svg
+          plugin_stars: yes
 ```
