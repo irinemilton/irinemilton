@@ -10,11 +10,12 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
