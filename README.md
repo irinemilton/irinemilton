@@ -35,8 +35,6 @@
 ```yaml
 Name: Irine Milton
 
-Role: AI Engineer
-
 Education: B.Tech Computer Science Engineering
 
 College: Christ College of Engineering
@@ -92,11 +90,7 @@ Achievement:
 
 </table>
 
----
 
-
-
-🌍 Portfolio: https://portfolio-wine-six-44.vercel.app/
 
 ---
 
@@ -111,9 +105,11 @@ Achievement:
 <td width="100%" align="center">
 
 # ⚡ Tech Arsenal
-
+<br>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=10"/>
-
+</p>
+</br>
 </td>
 
 </tr>
