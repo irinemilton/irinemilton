@@ -1,148 +1,586 @@
 <div align="center">
 
-<img src="./assets/github banner.png" width="100%"/>
+<img src="./assets/github banner.png" width="100%" />
 
-# Hi 👋, I'm **Irine Milton**
+<br>
 
-### AI • Machine Learning • Full Stack Developer • Computer Science Engineering Student
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+Developer;Full+Stack+Developer;Hackathon+Winner;Building+AI+Solutions+for+Real+World+Problems" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Hackathon+Winner;Always+Learning+Something+New" />
+<br>
 
-![](https://komarev.com/ghpvc/?username=irinemilton&style=for-the-badge&color=blueviolet)
+<p>
+
+<a href="https://github.com/irinemilton">
+<img src="https://img.shields.io/github/followers/irinemilton?label=Followers&logo=github&style=for-the-badge&color=BD93F9"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=irinemilton&style=for-the-badge&color=BD93F9"/>
+
+<img src="https://img.shields.io/github/stars/irinemilton?affiliations=OWNER&style=for-the-badge&color=BD93F9"/>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+<table>
 
-- 🎓 **B.Tech Computer Science Engineering** student at **Christ College of Engineering**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI and Computer Vision**
-- 💻 Building intelligent applications with **Python, Flask, React, Next.js and MySQL**
-- 🧠 Currently exploring **Agentic AI, LangChain, RAG, MLOps and LLM Applications**
-- 🏆 National Level Hackathon Winner
-- 🚀 Love participating in Hackathons and building real-world solutions
+<tr>
+
+<td width="55%" valign="top">
+
+# 👨🏻‍💻 About Me
+
+```yaml
+Name: Irine Milton
+
+Role: AI Engineer
+
+Education: B.Tech Computer Science Engineering
+
+College: Christ College of Engineering
+
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Computer Vision
+  - Full Stack Development
+
+Currently Learning:
+  - Agentic AI
+  - LangChain
+  - RAG
+  - MLOps
+
+Achievement:
+  - 🏆 National Level Hackathon Winner
+```
+
+</td>
+
+<td width="45%" valign="top">
+
+# 🌐 Connect
+
+<a href="https://portfolio-wine-six-44.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/irinemilton">
+<img src="https://img.shields.io/badge/LinkedIn-Irine%20Milton-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+<a href="mailto:irinemilton009@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-irinemilton009@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Irine_Milton/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/irinemilton"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/irinemilton"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:irinemilton009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
 
 🌍 Portfolio: https://portfolio-wine-six-44.vercel.app/
 
 ---
 
-# 🛠 Languages & Tools
+<!-- =============================================== -->
+<!--                 TECH STACK                      -->
+<!-- =============================================== -->
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch"/>
-</p>
+<table>
 
-### AI / ML
-- OpenCV
-- Scikit-Learn
-- NumPy
-- Pandas
-- Hugging Face
-- LangChain
-- Ollama
-- CLIP
-- Prompt Engineering
+<tr>
+
+<td width="100%" align="center">
+
+# ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=10"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI & Machine Learning
+
+```text
+🧠 Artificial Intelligence
+
+⚡ Machine Learning
+
+🖼️ Computer Vision
+
+🤖 Generative AI
+
+📊 Deep Learning
+
+📝 Prompt Engineering
+
+🔗 LangChain
+
+📚 RAG
+
+🦙 Ollama
+
+🤗 Hugging Face
+
+📸 OpenCV
+
+📈 Scikit-Learn
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 Development
+
+```text
+🌐 Full Stack Development
+
+⚛ React.js
+
+▲ Next.js
+
+🐍 Flask
+
+🗄 MySQL
+
+🍃 MongoDB
+
+🐳 Docker
+
+🐧 Linux
+
+🛠 Git & GitHub
+
+🎨 UI / UX
+```
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🏆 Achievements
+<table>
 
-- 🥇 National Level Hackathon Winner
-- 🤖 AICTE × IBM SkillsBuild AI/ML Internship
-- 💡 Multiple AI & Full Stack Projects
-- 🚀 Passionate Open Source Learner
+<tr>
+
+<td align="center">
+
+### 🚀 Current Focus
+
+<img src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-3C096C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-240046?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📊 GitHub Stats
+
+<!-- ============================================== -->
+<!--            GITHUB DASHBOARD                    -->
+<!-- ============================================== -->
+
+# 📊 Development Dashboard
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=irinemilton&theme=dracula&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinemilton&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://leetcard.jacoblin.cool/Irine_Milton?theme=dark&font=Poppins&ext=contest"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irinemilton&show_icons=true&theme=dracula&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=irinemilton&theme=dracula&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinemilton&layout=compact&theme=dracula&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=irinemilton&theme=dracula&hide_border=true"/>
+
 </p>
 
 ---
+<!-- =============================================== -->
+<!--             GITHUB ANALYTICS                    -->
+<!-- =============================================== -->
 
-# 📈 Activity Graph
+# 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irinemilton&theme=dracula"/>
-</p>
+<table>
 
----
+<tr>
 
-# 🏆 GitHub Trophies
+<td width="50%" align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=irinemilton&theme=dracula&no-frame=true"/>
-</p>
+## 🐍 Contribution Snake
 
----
+<img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg"/>
 
-# 🐍 Contribution Snake
+</td>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
+<td width="50%" align="center">
 
 ## 📊 GitHub Metrics
 
+<img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg" alt="GitHub Metrics" />
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=irinemilton&theme=dracula&row=1&column=7&no-bg=true&no-frame=true"/>
+
 </p>
 
----
-
-# 💻 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Irine_Milton?theme=dark&font=Nunito&ext=heatmap"/>
-</p>
 
 ---
 
 
-# 🌱 Currently Learning
+<!-- =============================================== -->
+<!--              AI EXPERTISE                       -->
+<!-- =============================================== -->
 
-- Agentic AI
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-- Cloud Deployment
-- System Design
+# 🧠 AI Expertise
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## 🤖 Artificial Intelligence
+
+Machine Learning
+
+Generative AI
+
+Prompt Engineering
+
+Computer Vision
+
+Deep Learning
+
+Neural Networks
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙️ Frameworks
+
+TensorFlow
+
+PyTorch
+
+OpenCV
+
+Scikit-Learn
+
+LangChain
+
+Ollama
+
+Hugging Face
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀 Deployment
+
+Flask
+
+React
+
+Next.js
+
+Docker
+
+Linux
+
+GitHub Actions
+
+REST APIs
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 💬 Quote
+# 📅 My Journey
 
-> *"Build solutions that create impact."*
+```text
+
+2024
+│
+├── Started B.Tech CSE
+│
+├── Learned Python & Web Development
+│
+2025
+│
+├── Built Full Stack Projects
+│
+├── Started AI & ML
+│
+2026
+│
+├── 🏆 National Hackathon Winner
+│
+├── IBM × AICTE Internship
+│
+├── Built AI Product Intelligence System
+│
+└── Exploring Agentic AI
+```
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💡 Fun Facts
+
+☕ Coffee + Code
+
+🚀 Love Hackathons
+
+🧠 AI Enthusiast
+
+🌍 Open Source Learner
+
+🎯 Problem Solver
+
+💻 Night Coder
+
+</td>
+
+<td width="50%">
+
+## ⚡ Currently Building
+
+🤖 AI Applications
+
+📈 ML Models
+
+🌐 Full Stack Systems
+
+🧠 Agentic AI
+
+📦 Production Projects
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+---
+
+<!-- =============================================== -->
+<!--           ACHIEVEMENTS & VISION                 -->
+<!-- =============================================== -->
+
+# 🚀 Beyond the Code
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏆 Highlights
+
+- 🥇 National Level Hackathon Winner
+- 🤖 AICTE × IBM SkillsBuild AI/ML Intern
+- 💡 Built AI, ML & Full Stack Projects
+- 🧠 Exploring Agentic AI & LLMs
+- 🌍 Passionate about Open Source
+- 🚀 Always building practical solutions
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 Current Focus
+
+```text
+✓ Agentic AI
+
+✓ LangChain
+
+✓ Retrieval-Augmented Generation
+
+✓ MLOps
+
+✓ AI Deployment
+
+✓ Scalable Full Stack Systems
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 2026 Goals
+
+- ⭐ Build impactful AI products
+- 📚 Publish technical blogs
+- 🌍 Contribute to Open Source
+- 💼 Secure an AI Internship
+- 🧠 Master System Design
+- 🚀 Launch production-ready projects
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💜 Philosophy
+
+> **"Technology should solve real problems, not just demonstrate complexity."**
+
+> Keep learning.
+
+> Keep building.
+
+> Keep sharing.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⚡ *"Building intelligent systems, one commit at a time."*
 
-If you like my work, consider giving a ⭐ to my repositories.
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=140&section=footer"/>
+
+# ⭐ Thanks for Visiting!
+
+### *"Building Intelligent Systems That Create Real Impact."*
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Powered%20By-AI-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://portfolio-wine-six-44.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-9D4EDD?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/irinemilton">
+<img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:irinemilton009@gmail.com">
+<img src="https://img.shields.io/badge/📧 Email-Contact-EA4335?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+### 🚀 Let's Build the Future Together.
 
 </div>
 
