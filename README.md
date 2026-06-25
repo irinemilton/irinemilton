@@ -120,11 +120,6 @@
 
 ---
 
-# ⌨️ WakaTime
-
-> Add your WakaTime username after creating an account.
-
----
 
 # 🌱 Currently Learning
 
