@@ -96,25 +96,19 @@
 
 # 🐍 Contribution Snake
 
-```text
-Requires GitHub Action (Platane/snk)
-```
 
-```html
-<img src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg"/>
-```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
-# 📊 GitHub Metrics
+## 📊 GitHub Metrics
 
-```text
-Requires lowlighter/metrics GitHub Action
-```
-
-```html
-<img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg"/>
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
