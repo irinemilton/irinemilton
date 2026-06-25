@@ -1,4 +1,4 @@
-```yaml
+
 name: GitHub Metrics
 
 on:
@@ -34,4 +34,4 @@ jobs:
           plugin_followup: yes
           plugin_lines: yes
           plugin_stars: yes
-```
+          
