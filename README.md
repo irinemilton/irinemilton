@@ -66,34 +66,6 @@ Achievement:
 
 </td>
 
-<td width="45%" valign="top">
-
-# 🌐 Connect
-
-<a href="https://portfolio-wine-six-44.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/irinemilton">
-<img src="https://img.shields.io/badge/LinkedIn-Irine%20Milton-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-<a href="mailto:irinemilton009@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-irinemilton009@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/Irine_Milton/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</td>
-
 </tr>
 
 </table>
@@ -268,4 +240,3 @@ Achievement:
 ### 🚀 Let's Build the Future Together.
 
 </div>
-
