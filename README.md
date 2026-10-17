@@ -19,19 +19,19 @@
 <p><nobr>
 
 <a href="https://portfolio-wine-six-44.vercel.app/">
-<img height="36" src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
+<img height="32" src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/irinemilton">
-<img height="36" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 &nbsp;
 <a href="mailto:irinemilton009@gmail.com">
-<img height="36" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img height="32" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Irine_Milton/">
-<img height="36" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+<img height="32" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </nobr></p>
