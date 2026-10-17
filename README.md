@@ -44,13 +44,19 @@
 
 <tr>
 
-<td width="100%" align="center">
+<td width="70%" align="center">
 
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=10"/>
 </p>
 </br>
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="220" alt="Animated technology illustration" />
+
 </td>
 
 </tr>
