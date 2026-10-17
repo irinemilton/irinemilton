@@ -12,6 +12,10 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120" alt="Animated developer illustration" />
+
+<br>
+
 <p>
 
 <a href="https://portfolio-wine-six-44.vercel.app/">
@@ -158,6 +162,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=140&section=footer"/>
 
+<img align="right" src="https://camo.githubusercontent.com/3f78c1da994ed6454f47e0e6498d3b39f44167240a0371870a7cb23eb62aecbf/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="90" alt="Animated parrot" />
+
 # ⭐ Thanks for Visiting!
 
 ### *"Building Intelligent Systems That Create Real Impact."*
@@ -169,6 +175,10 @@
 <img src="https://img.shields.io/badge/Powered%20By-AI-success?style=for-the-badge"/>
 
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="90" alt="Animated coding accent" />
+
+<br>
 
 <a href="https://portfolio-wine-six-44.vercel.app">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-9D4EDD?style=for-the-badge"/>
@@ -183,6 +193,12 @@
 </a>
 
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="80" alt="Animated technology illustration" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="80" alt="Animated developer illustration" />
+
+<br>
 
 ### 🚀 Let's Build the Future Together.
 
