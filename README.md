@@ -36,55 +36,8 @@
 
 <tr>
 
-<td width="55%" valign="top">
-
-# 👨🏻‍💻 About Me
-
-```yaml
-Name: Irine Milton
-
-Education: B.Tech Computer Science Engineering
-
-College: Christ College of Engineering
-
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - Computer Vision
-  - Full Stack Development
-
-Currently Learning:
-  - Agentic AI
-  - LangChain
-  - RAG
-  - MLOps
-
-Achievement:
-  - 🏆 National Level Hackathon Winner
-```
-
-</td>
-
-</tr>
-
-</table>
-
-
-
----
-
-<!-- =============================================== -->
-<!--                 TECH STACK                      -->
-<!-- =============================================== -->
-
-<table>
-
-<tr>
-
 <td width="100%" align="center">
 
-# ⚡ Tech Arsenal
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=10"/>
@@ -103,8 +56,6 @@ Achievement:
 <tr>
 
 <td align="center">
-
-### 🚀 Current Focus
 
 <img src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge"/>
 
@@ -128,8 +79,6 @@ Achievement:
 <!-- ============================================== -->
 <!--            GITHUB DASHBOARD                    -->
 <!-- ============================================== -->
-
-# 📊 Development Dashboard
 
 <table>
 <tr>
@@ -168,8 +117,6 @@ Achievement:
 
 ---
 
-# 📈 Contribution Activity
-
 <p align="center">
 
 <img width="100%" src="https://ghchart.rshah.org/BD93F9/irinemilton" alt="GitHub contribution activity"/>
@@ -183,18 +130,14 @@ Achievement:
 
 # 📈 GitHub Analytics
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg?v=40720fe" alt="GitHub contribution snake"/>
 </p>
 
 <br>
 
-## 📊 GitHub Metrics
-
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Metrics"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;v=40720fe" alt="GitHub statistics"/>
 </p>
 
 <br>
