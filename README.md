@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180" alt="Animated coding illustration" />
+
+<br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+Developer;Full+Stack+Developer;Hackathon+Winner;Building+AI+Solutions+for+Real+World+Problems" />
 
 <br>
