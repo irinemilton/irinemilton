@@ -65,8 +65,8 @@
 
 ---
 
-<table width="100%">
-<tr>
+<table width="100%" align="center">
+<tr align="center">
 <td width="20%" align="center">
 <img width="100%" height="40" src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge" alt="Agentic AI"/>
 </td>
