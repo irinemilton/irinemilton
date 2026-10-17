@@ -214,7 +214,7 @@ Achievement:
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Metrics"/>
 </p>
 
 <br>
@@ -260,6 +260,5 @@ Achievement:
 ### 🚀 Let's Build the Future Together.
 
 </div>
-
 
 
