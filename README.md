@@ -68,19 +68,19 @@
 <table width="100%" align="center">
 <tr align="center">
 <td width="20%" align="center">
-<img width="100%" height="40" src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge" alt="Agentic AI"/>
+<img width="160" height="40" src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge" alt="Agentic AI"/>
 </td>
 <td width="20%" align="center">
-<img width="100%" height="40" src="https://img.shields.io/badge/LangChain-7B2CBF?style=for-the-badge" alt="LangChain"/>
+<img width="160" height="40" src="https://img.shields.io/badge/LangChain-7B2CBF?style=for-the-badge" alt="LangChain"/>
 </td>
 <td width="20%" align="center">
-<img width="100%" height="40" src="https://img.shields.io/badge/RAG-5A189A?style=for-the-badge" alt="RAG"/>
+<img width="160" height="40" src="https://img.shields.io/badge/RAG-5A189A?style=for-the-badge" alt="RAG"/>
 </td>
 <td width="20%" align="center">
-<img width="100%" height="40" src="https://img.shields.io/badge/MLOps-3C096C?style=for-the-badge" alt="MLOps"/>
+<img width="160" height="40" src="https://img.shields.io/badge/MLOps-3C096C?style=for-the-badge" alt="MLOps"/>
 </td>
 <td width="20%" align="center">
-<img width="100%" height="40" src="https://img.shields.io/badge/System_Design-240046?style=for-the-badge" alt="System Design"/>
+<img width="160" height="40" src="https://img.shields.io/badge/System_Design-240046?style=for-the-badge" alt="System Design"/>
 </td>
 </tr>
 </table>
