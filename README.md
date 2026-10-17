@@ -16,7 +16,7 @@
 
 <br>
 
-<p><nobr>
+<p>
 
 <a href="https://portfolio-wine-six-44.vercel.app/">
 <img height="32" src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel"/>
@@ -34,7 +34,7 @@
 <img height="32" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-</nobr></p>
+</p>
 
 </div>
 
@@ -178,13 +178,11 @@
 
 ### *"Building Intelligent Systems That Create Real Impact."*
 
-<nobr>
 <img height="36" src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
 
 <img height="36" src="https://img.shields.io/badge/Open%20to-Collaboration-blueviolet?style=for-the-badge"/>
 
 <img height="36" src="https://img.shields.io/badge/Powered%20By-AI-success?style=for-the-badge"/>
-</nobr>
 
 <br><br>
 
@@ -192,7 +190,6 @@
 
 <br>
 
-<nobr>
 <a href="https://portfolio-wine-six-44.vercel.app">
 <img height="36" src="https://img.shields.io/badge/🌐 Portfolio-Visit-9D4EDD?style=for-the-badge"/>
 </a>
@@ -204,7 +201,6 @@
 <a href="mailto:irinemilton009@gmail.com">
 <img height="36" src="https://img.shields.io/badge/📧 Email-Contact-EA4335?style=for-the-badge"/>
 </a>
-</nobr>
 
 <br><br>
 
