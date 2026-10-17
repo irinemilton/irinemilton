@@ -140,8 +140,6 @@
 <!--              GITHUB ANALYTICS                   -->
 <!-- =============================================== -->
 
-# 📈 GitHub Analytics
-
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irinemilton&amp;theme=dracula&amp;v=4b115b8" alt="GitHub profile summary"/>
 </p>
