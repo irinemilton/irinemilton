@@ -67,11 +67,21 @@
 
 <table width="100%">
 <tr>
-<td width="20%" height="48" align="center" bgcolor="#9D4EDD"><strong>AGENTIC AI</strong></td>
-<td width="20%" height="48" align="center" bgcolor="#7B2CBF"><strong>LANGCHAIN</strong></td>
-<td width="20%" height="48" align="center" bgcolor="#5A189A"><strong>RAG</strong></td>
-<td width="20%" height="48" align="center" bgcolor="#3C096C"><strong>MLOPS</strong></td>
-<td width="20%" height="48" align="center" bgcolor="#240046"><strong>SYSTEM DESIGN</strong></td>
+<td width="20%" align="center">
+<img width="100%" height="40" src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge" alt="Agentic AI"/>
+</td>
+<td width="20%" align="center">
+<img width="100%" height="40" src="https://img.shields.io/badge/LangChain-7B2CBF?style=for-the-badge" alt="LangChain"/>
+</td>
+<td width="20%" align="center">
+<img width="100%" height="40" src="https://img.shields.io/badge/RAG-5A189A?style=for-the-badge" alt="RAG"/>
+</td>
+<td width="20%" align="center">
+<img width="100%" height="40" src="https://img.shields.io/badge/MLOps-3C096C?style=for-the-badge" alt="MLOps"/>
+</td>
+<td width="20%" align="center">
+<img width="100%" height="40" src="https://img.shields.io/badge/System_Design-240046?style=for-the-badge" alt="System Design"/>
+</td>
 </tr>
 </table>
 
