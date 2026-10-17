@@ -16,25 +16,25 @@
 
 <br>
 
-<p>
+<p><nobr>
 
 <a href="https://portfolio-wine-six-44.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
+<img height="36" src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/irinemilton">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img height="36" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 &nbsp;
 <a href="mailto:irinemilton009@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img height="36" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Irine_Milton/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+<img height="36" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-</p>
+</nobr></p>
 
 </div>
 
@@ -162,7 +162,7 @@
 
 <div align="center">
 
-### ⚡ *"Building intelligent systems, one commit at a time."*
+###  *"Building intelligent systems, one commit at a time."*
 
 </div>
 
@@ -174,15 +174,17 @@
 
 <img align="right" src="https://camo.githubusercontent.com/3f78c1da994ed6454f47e0e6498d3b39f44167240a0371870a7cb23eb62aecbf/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="90" alt="Animated parrot" />
 
-# ⭐ Thanks for Visiting!
+#  Thanks for Visiting!
 
 ### *"Building Intelligent Systems That Create Real Impact."*
 
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+<nobr>
+<img height="36" src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-blueviolet?style=for-the-badge"/>
+<img height="36" src="https://img.shields.io/badge/Open%20to-Collaboration-blueviolet?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Powered%20By-AI-success?style=for-the-badge"/>
+<img height="36" src="https://img.shields.io/badge/Powered%20By-AI-success?style=for-the-badge"/>
+</nobr>
 
 <br><br>
 
@@ -190,17 +192,19 @@
 
 <br>
 
+<nobr>
 <a href="https://portfolio-wine-six-44.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-9D4EDD?style=for-the-badge"/>
+<img height="36" src="https://img.shields.io/badge/🌐 Portfolio-Visit-9D4EDD?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/irinemilton">
-<img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+<img height="36" src="https://img.shields.io/badge/💼 LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:irinemilton009@gmail.com">
-<img src="https://img.shields.io/badge/📧 Email-Contact-EA4335?style=for-the-badge"/>
+<img height="36" src="https://img.shields.io/badge/📧 Email-Contact-EA4335?style=for-the-badge"/>
 </a>
+</nobr>
 
 <br><br>
 
@@ -208,6 +212,6 @@
 
 <br>
 
-### 🚀 Let's Build the Future Together.
+###  Let's Build the Future Together.
 
 </div>
