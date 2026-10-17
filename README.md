@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/assets/github%20banner.png?v=9814cc7" width="100%" alt="Irine Milton profile banner" />
 
 <br>
 
