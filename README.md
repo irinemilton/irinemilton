@@ -10,13 +10,21 @@
 
 <p>
 
-<a href="https://github.com/irinemilton">
-<img src="https://img.shields.io/github/followers/irinemilton?label=Followers&logo=github&style=for-the-badge&color=BD93F9"/>
+<a href="https://portfolio-wine-six-44.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=irinemilton&style=for-the-badge&color=BD93F9"/>
-
-<img src="https://img.shields.io/github/stars/irinemilton?affiliations=OWNER&style=for-the-badge&color=BD93F9"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/irinemilton">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+&nbsp;
+<a href="mailto:irinemilton009@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Irine_Milton/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
 
@@ -260,5 +268,4 @@ Achievement:
 ### 🚀 Let's Build the Future Together.
 
 </div>
-
 
