@@ -192,7 +192,7 @@ Achievement:
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=irinemilton&theme=dracula&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/BD93F9/irinemilton" alt="GitHub contribution activity"/>
 
 </p>
 
@@ -260,7 +260,6 @@ Achievement:
 ### 🚀 Let's Build the Future Together.
 
 </div>
-
 
 
 
