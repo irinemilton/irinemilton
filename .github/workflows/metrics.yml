@@ -30,11 +30,6 @@ jobs:
           plugin_languages_ignored: html, css
 
           plugin_isocalendar: yes
-          plugin_achievements: yes
           plugin_followup: yes
 
-          plugin_lines: yes
-          plugin_lines_sections: base
-
           plugin_stars: yes
-
