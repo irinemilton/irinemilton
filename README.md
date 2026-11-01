@@ -147,6 +147,12 @@
 <br>
 
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/github-metrics.svg?v=2d4b4edd" alt="GitHub metrics"/>
+</p>
+
+<br>
+
+<p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg?v=40720fe" alt="GitHub contribution snake"/>
 </p>
 
