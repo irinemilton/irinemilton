@@ -97,7 +97,7 @@
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=irinemilton&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -113,7 +113,7 @@
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinemilton&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=irinemilton&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </td>
 
@@ -159,7 +159,7 @@
 <br>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;v=40720fe" alt="GitHub statistics"/>
+  <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=irinemilton&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics"/>
 </p>
 
 <br>
