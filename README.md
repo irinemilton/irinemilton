@@ -153,6 +153,12 @@
 <br>
 
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile"/>
+</p>
+
+<br>
+
+<p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=irinemilton&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;v=40720fe" alt="GitHub statistics"/>
 </p>
 
