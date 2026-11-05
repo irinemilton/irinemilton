@@ -222,10 +222,23 @@
 
 ## Guestbook
 
-<p>Leave a kind note, share your thoughts, or simply say hello with love ♥️</p>
+<table width="100%" align="center">
+<tr>
+<td width="70%" align="center">
+
+<p>Thank you for visiting my profile. Please feel free to leave a note in my guestbook.</p>
 
 <a href="https://github.com/irinemilton/irinemilton/issues/new?template=guestbook.yml&amp;title=Guestbook%20entry">
-<img height="40" src="https://img.shields.io/badge/📝%20Sign%20the%20Guestbook-9D4EDD?style=for-the-badge"/>
+<img height="40" src="https://img.shields.io/badge/📝%20Sign%20my%20Guestbook-9D4EDD?style=for-the-badge" alt="Sign my Guestbook"/>
 </a>
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://gist.githubusercontent.com/keithamus/75b2dd45bcb822910f450017b5b69cfa/raw/ecb6a3cb4adfd5864993fb34e8c372d04b96cac5/guestbook.gif" width="180" alt="Guestbook"/>
+
+</td>
+</tr>
+</table>
 
 </div>
