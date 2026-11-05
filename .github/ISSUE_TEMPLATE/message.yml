@@ -1,0 +1,12 @@
+name: Leave a message
+description: Send Irine a message
+title: "Message for Irine"
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: Share a message, suggestion, or feedback.
+      placeholder: "Example: Your profile inspired me to improve my own README!"
+    validations:
+      required: true
