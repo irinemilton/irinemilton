@@ -1,0 +1,20 @@
+name: Guestbook
+description: Leave a message in Irine's guestbook
+title: "Guestbook entry"
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: How should your guestbook entry be signed?
+      placeholder: Your name or GitHub username
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: Leave a short message for Irine.
+      placeholder: Write your message here
+    validations:
+      required: true
