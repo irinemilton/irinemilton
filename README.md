@@ -206,7 +206,7 @@
 <img height="36" src="https://img.shields.io/badge/📧 Email-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/irinemilton/irinemilton/issues/new?template=guestbook.yml">
+<a href="https://github.com/irinemilton/irinemilton/issues/new?template=guestbook.yml&amp;title=Guestbook%20entry">
 <img height="36" src="https://img.shields.io/badge/📝%20Guestbook-Sign%20Here-9D4EDD?style=for-the-badge"/>
 </a>
 
