@@ -7,7 +7,7 @@ body:
     attributes:
       label: Name
       description: How should your guestbook entry be signed?
-      placeholder: Your name or GitHub username
+      placeholder: "Example: Alex or @alex"
     validations:
       required: true
   - type: textarea
@@ -15,6 +15,6 @@ body:
     attributes:
       label: Message
       description: Leave a short message for Irine.
-      placeholder: Write your message here
+      placeholder: "Example: Great profile, Irine! I enjoyed learning about your projects."
     validations:
       required: true
