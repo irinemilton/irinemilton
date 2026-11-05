@@ -208,7 +208,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="100%" alt="Animated developer illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="120" alt="Animated developer illustration" />
 
 <br>
 
@@ -221,6 +221,8 @@
 <div align="center">
 
 ## Guestbook
+
+<p>Leave a kind note, share your thoughts, or simply say hello with love ♥️</p>
 
 <a href="https://github.com/irinemilton/irinemilton/issues/new?template=guestbook.yml&amp;title=Guestbook%20entry">
 <img height="40" src="https://img.shields.io/badge/📝%20Sign%20the%20Guestbook-9D4EDD?style=for-the-badge"/>
