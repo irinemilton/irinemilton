@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120" alt="Animated developer illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Animated developer illustration" />
 
 <br>
 
@@ -48,14 +48,14 @@
 
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=10"/>
+<img width="100%" src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nextjs,flask,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=7"/>
 </p>
 </br>
 </td>
 
 <td width="30%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="220" alt="Animated technology illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300" alt="Animated technology illustration" />
 
 </td>
 
@@ -68,19 +68,19 @@
 <table width="100%" align="center">
 <tr align="center">
 <td width="20%" align="center">
-<img width="160" height="40" src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge" alt="Agentic AI"/>
+<img width="190" height="48" src="https://img.shields.io/badge/Agentic_AI-9D4EDD?style=for-the-badge" alt="Agentic AI"/>
 </td>
 <td width="20%" align="center">
-<img width="160" height="40" src="https://img.shields.io/badge/LangChain-7B2CBF?style=for-the-badge" alt="LangChain"/>
+<img width="190" height="48" src="https://img.shields.io/badge/LangChain-7B2CBF?style=for-the-badge" alt="LangChain"/>
 </td>
 <td width="20%" align="center">
-<img width="160" height="40" src="https://img.shields.io/badge/RAG-5A189A?style=for-the-badge" alt="RAG"/>
+<img width="190" height="48" src="https://img.shields.io/badge/RAG-5A189A?style=for-the-badge" alt="RAG"/>
 </td>
 <td width="20%" align="center">
-<img width="160" height="40" src="https://img.shields.io/badge/MLOps-3C096C?style=for-the-badge" alt="MLOps"/>
+<img width="190" height="48" src="https://img.shields.io/badge/MLOps-3C096C?style=for-the-badge" alt="MLOps"/>
 </td>
 <td width="20%" align="center">
-<img width="160" height="40" src="https://img.shields.io/badge/System_Design-240046?style=for-the-badge" alt="System Design"/>
+<img width="190" height="48" src="https://img.shields.io/badge/System_Design-240046?style=for-the-badge" alt="System Design"/>
 </td>
 </tr>
 </table>
