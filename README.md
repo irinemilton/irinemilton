@@ -1,7 +1,5 @@
 <div align="center">
 
-[![AI-Atlas](https://getaiatlas.com/api/badge/irinemilton)](https://getaiatlas.com/u/irinemilton)
-
 <img src="https://raw.githubusercontent.com/irinemilton/irinemilton/main/assets/github%20banner.png?v=9814cc7" width="100%" alt="Irine Milton profile banner" />
 
 <br>
@@ -147,6 +145,8 @@
 </p>
 
 <br>
+
+[![AI-Atlas](https://getaiatlas.com/api/badge/irinemilton)](https://getaiatlas.com/u/irinemilton)
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/irinemilton/irinemilton/output/github-contribution-grid-snake-dark.svg?v=40720fe" alt="GitHub contribution snake"/>
