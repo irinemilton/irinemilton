@@ -231,5 +231,6 @@
 <a href="https://github.com/irinemilton/irinemilton/issues/new?template=guestbook.yml&amp;title=Guestbook%20entry">
 <img height="40" src="https://img.shields.io/badge/📝%20Sign%20my%20Guestbook-9D4EDD?style=for-the-badge" alt="Sign my Guestbook"/>
 </a>
+<img height="40" src="https://komarev.com/ghpvc/?username=irinemilton&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="Profile views"/>
 
 </div>
