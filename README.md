@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+Developer;Full+Stack+Developer;Hackathon+Winner;Building+AI+Solutions+for+Real+World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+Developer;Full+Stack+Developer;Hackathon+Winner;Building+AI+Solutions+for+Real+World+Problems" alt="AI Engineer and full-stack developer profile headline" />
 
 <br>
 
